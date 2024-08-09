@@ -1,0 +1,7 @@
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe.config
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.exe
+C:\Users\luisc\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.pdb
